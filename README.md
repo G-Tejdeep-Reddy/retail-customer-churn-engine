@@ -46,7 +46,7 @@ Retail and e-commerce enterprises frequently suffer from unmonitored customer ch
 ## 🎨 Application Screenshots
 
 ### 💻 Streamlit Interactive Web Application - Overview & Metrics
-![Streamlit App View 1](streamlit_app_.png)
+![Streamlit App View 1](streamlit_app.png)
 
 ---
 
